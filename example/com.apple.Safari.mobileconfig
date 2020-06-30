@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>HomePage</key>
+			<string>http://www.apple.com/startpage/</string>
+			<key>PayloadDescription</key>
+			<string>Configures Safari configuration preferences</string>
+			<key>PayloadDisplayName</key>
+			<string>Safari</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.noelmom.CFPreferencesSetAppValue-go.AF2879B7-AA17-40B6-81EA-C3C5288D79E2.com.apple.Safari.CD812D22-B98E-4CF8-A8ED-9565AF59D677</string>
+			<key>PayloadOrganization</key>
+			<string>com.github.noelmom.CFPreferencesSetAppValue-go</string>
+			<key>PayloadType</key>
+			<string>com.apple.Safari</string>
+			<key>PayloadUUID</key>
+			<string>CD812D22-B98E-4CF8-A8ED-9565AF59D677</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Sets Safari Default Homepage</string>
+	<key>PayloadDisplayName</key>
+	<string>Safari Default Homepage</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.noelmom.CFPreferencesSetAppValue-go.AF2879B7-AA17-40B6-81EA-C3C5288D7977</string>
+	<key>PayloadOrganization</key>
+	<string>com.github.noelmom.CFPreferencesSetAppValue-go</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AF2879B7-AA17-40B6-81EA-C3C5288D7977</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
